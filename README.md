@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Aaryan Patel</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-- 🔭 I’m currently working on [AyurvedaGPT](https://github.com/Aaryan6/AyurvedaGPT)
-
+- 🔭 I’m currently working in an internship as a Nextjs developer
 - 🌱 I’m currently learning **Typescript and Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aaryan6](https://github.com/Aaryan6)
 
-- 💬 Ask me about **React, Next.JS, Python, JavaScript**
+- 💬 Ask me about **React, NextJS, Python, JavaScript**
 
 - 📫 How to reach me **aaryanpatel683@gmail.com**
 
